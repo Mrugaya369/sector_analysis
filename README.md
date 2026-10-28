@@ -5,10 +5,6 @@ NSE (National Stock Exchange, India) sector indices and their constituent stocks
 Data comes from **Yahoo Finance** and is cached locally as Parquet — no API keys,
 no database, no external service required.
 
-![Dashboard preview](docs/screenshot_landing.png)
-
-> Screenshots are placeholders — add your own under `docs/` after running the app.
-
 ---
 
 ## Features
